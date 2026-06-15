@@ -4,11 +4,11 @@ Evaluating eye tracking across multiple platforms and use cases is challenging f
 
 We developed EyeTTS, an eye tracking test suite specifically designed for scenarios involving head movement and locomotion in AR. 
 
-**Publication:** 
+**Refereed Poster Papers:** 
 - 2024 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW); DOI:  <a _ngcontent-ng-c965805560="" target="_blank" rel="noopener noreferrer" class="underline mat-subtitle-2" href="https://doi.org/10.1109/vrw62533.2024.00321">
     10.1109/vrw62533.2024.00321
   </a>
-- 2023 IEEE International Symposium on Mixed and Augmented Reality Adjunct (ISMAR-Adjunct);DOI: <a _ngcontent-ng-c965805560="" target="_blank" rel="noopener noreferrer" class="underline mat-subtitle-2" href="https://doi.org/10.1109/ismar-adjunct60411.2023.00104">
+- 2023 IEEE International Symposium on Mixed and Augmented Reality Adjunct (ISMAR-Adjunct); DOI: <a _ngcontent-ng-c965805560="" target="_blank" rel="noopener noreferrer" class="underline mat-subtitle-2" href="https://doi.org/10.1109/ismar-adjunct60411.2023.00104">
     10.1109/ismar-adjunct60411.2023.00104
   </a>
 
