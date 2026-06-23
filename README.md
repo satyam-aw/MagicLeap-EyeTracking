@@ -5,7 +5,7 @@ EyeTTS (Eye Tracking Test Suite) is a controlled experimental framework for eval
 This repository implements the **front-end data collection system** for the Magic Leap 1 (ML1) platform. Built in Unity, it serves as the real-time **User Study Framework**, responsible for rendering spatial stimuli, managing experimental trials, and logging synchronized gaze, head-pose, and system timestamps.
 
 All recorded streams are processed by the corresponding backend **EyeTTS Calibration Framework**, which performs post-hoc calibration, drift correction, and evaluation metric computation:  
-https://github.com/satyam-aw/Eye-Tracking-Test-Suite_EyeTTS_Calibration-Framework
+https://github.com/satyam-aw/EyeTTS_Calibration-Framework
 
 
 The EyeTTS User Study Framework playlist provides full experimental recordings, including task-specific trials and unedited participant sessions:  
@@ -27,7 +27,7 @@ While each headset requires device-specific implementations due to proprietary S
   https://github.com/vivianross06/HoloLens-Eye-Tracking
 
 - EyeTTS Calibration Framework:  
-  https://github.com/satyam-aw/Eye-Tracking-Test-Suite_EyeTTS_Calibration-Framework
+  https://github.com/satyam-aw/EyeTTS_Calibration-Framework
 
 ---
 
